@@ -155,5 +155,5 @@ render_highquality(filename="austria_dem.png",
                    title_size=100,
                    title_offset=c(360,180),
                    width=w*3, 
-                   height=h*3)
+                   height=h*3) # 40 minutes for last two steps (mostly this one)
 
